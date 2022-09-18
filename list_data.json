@@ -1,22 +1,37 @@
 {
-	"movies": [
+	"albums": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Circles",
+			"Director": "Mac Miller",
+			"Label": "REMember Music; Warner",
+			"Year": "January 17, 2020"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Tell Me I'm Pretty",
+			"Director": "Cage The Elephant",
+			"Label": "RCA",
+			"Year": "December 18, 2015"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Madvillainy",
+			"Director": "Madvillain",
+			"Label": "Stones Throw Records",
+			"Year": "March 23, 2004"
+		},
+
+		{
+			"Title": "Whatever People Say I Am, That's What I'm Not",
+			"Director": "Arctic Monkeys",
+			"Label": "Domino",
+			"Year": "January 23, 2006"
+		},
+
+		{
+			"Title": "Crash",
+			"Director": "Dave Matthews Band",
+			"Label": "RCA Records",
+			"Year": "April 30, 1996"
 		}
+
 	]
 }
