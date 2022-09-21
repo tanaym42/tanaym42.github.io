@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--author: tanay mahindru-->
+<!--INFO 202: Assignment 4-->
+
+<!ELEMENT restaurants(id, name, cuisine, city, open, close)>
+
+<!ELEMENT id        (#PCDATA)>
+<!ELEMENT name      (#PCDATA)>
+<!ELEMENT cuisine   (#PCDATA)>
+<!ELEMENT city      (#PCDATA)>
+<!ELEMENT open      (#PCDATA)>
+<!ELEMENT close     (#PCDATA)>
