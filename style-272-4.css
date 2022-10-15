@@ -18,7 +18,7 @@ body {
 
 #top-left {
     grid-area: top-left;
-    background-color: #4a4e69;
+
     text-align: left;
     margin: 10px;
     padding: 10px;
@@ -30,10 +30,7 @@ body {
 
 #top-center {
     grid-area: top-center;
-    background-color: #4a4e69;
-    text-align: left;
-    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.38.41.png?raw=true');
-    background-size: cover;
+
     margin: 10px;
     padding: 10px;
     border-radius: 10%;
@@ -44,12 +41,11 @@ body {
 
 #top-right {
     grid-area: top-right;
-    background-color: #4a4e69;
+
     text-align: left;
     margin: 10px;
     padding: 10px;
-    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.32.35.png?raw=true');
-    background-size: cover;
+
     border-radius: 10%;
     border-color: white;
     border-width: 2px;
@@ -58,10 +54,7 @@ body {
 
 #middle-left {
     grid-area: middle-left;
-    background-color: #4a4e69;
-    text-align: left;
-    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.32.35.png?raw=true');
-    background-size: cover;
+
     margin: 10px;
     padding: 10px;
     border-radius: 10%;
@@ -72,7 +65,7 @@ body {
 
 #middle-center {
     grid-area: middle-center;
-    background-color: #4a4e69;
+
     text-align: left;
     margin: 10px;
     padding: 10px;
@@ -84,10 +77,7 @@ body {
 
 #middle-right {
     grid-area: middle-right;
-    background-color: #4a4e69;
-    text-align: left;
-    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.33.46.png?raw=true');
-    background-size: cover;
+
     margin: 10px;
     padding: 10px;
     border-radius: 10%;
@@ -112,10 +102,7 @@ body {
 
 #bottom-center {
     grid-area: bottom-center;
-    background-color: #4a4e69;
-    text-align: left;
-    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.39.47.png?raw=true');
-    background-size: cover;
+
     margin: 10px;
     padding: 10px;
     border-radius: 10%;
@@ -125,8 +112,7 @@ body {
 
 #bottom-right {
     grid-area: bottom-right;
-    background-color: #4a4e69;
-    text-align: left;
+
     margin: 10px;
     padding: 10px;
     border-radius: 10%;
@@ -137,7 +123,8 @@ body {
 
 p{
     text-shadow: 0.5px 0.5px #c9ada7;
-    color: #f2e9e4;
+    color: #22223b;
+    background-color: white;
 }
 
 img {
