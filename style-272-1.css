@@ -10,72 +10,94 @@
 
 body {
     margin: 5px;
-    font-size:14px;
+    font-size:28px;
     font-weight: 300;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #top-left {
     grid-area: top-left;
-    background-color:#dc4c3e;
+    background-color:#faf8f8;
     text-align: left;
-    padding-bottom: 2px;
-    background-image: url('https://compote.slate.com/images/510095e7-e0bc-49ff-bc60-8c45d3e88be3.jpeg');
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #top-center {
     grid-area: top-center;
     background-color: blue;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #top-right {
     grid-area: top-right;
     background-color:green;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+    background-image: url('https://compote.slate.com/images/510095e7-e0bc-49ff-bc60-8c45d3e88be3.jpeg');
+    background-size: cover;
 }
+
 
 #middle-left {
     grid-area: middle-left;
     background-color:orange;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #middle-center {
     grid-area: middle-center;
-    background-color: yellow;
+    background-color: #faf8f8;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #middle-right {
     grid-area: middle-right;
     background-color: violet;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #bottom-left {
     grid-area: bottom-left;
     background-color: white;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #bottom-center {
     grid-area: bottom-center;
     background-color: magenta;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
 #bottom-right {
     grid-area: bottom-right;
     background-color: burlywood;
     text-align: left;
-    padding-bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+
 }
 
+p{
+    text-shadow: 1px 1px grey;
+}
