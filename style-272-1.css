@@ -10,6 +10,7 @@
 
 body {
     margin: 5px;
+    background-color: #001d3d;
     font-size:28px;
     font-weight: 300;
     font-family: 'Times New Roman', Times, serif;
@@ -17,10 +18,13 @@ body {
 
 #top-left {
     grid-area: top-left;
-    background-color:#faf8f8;
+    background-color: #ffc300;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 
 }
 
@@ -28,8 +32,13 @@ body {
     grid-area: top-center;
     background-color: blue;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.38.41.png?raw=true');
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 10px;
 
 }
 
@@ -37,10 +46,13 @@ body {
     grid-area: top-right;
     background-color:green;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
-    background-image: url('https://compote.slate.com/images/510095e7-e0bc-49ff-bc60-8c45d3e88be3.jpeg');
+    margin: 10px;
+    padding: 10px;
+    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.32.35.png?raw=true');
     background-size: cover;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 }
 
 
@@ -48,17 +60,25 @@ body {
     grid-area: middle-left;
     background-color:orange;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.32.35.png?raw=true');
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 
 }
 
 #middle-center {
     grid-area: middle-center;
-    background-color: #faf8f8;
+    background-color: #ffc300;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 
 }
 
@@ -66,8 +86,13 @@ body {
     grid-area: middle-right;
     background-color: violet;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.33.46.png?raw=true');
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 
 }
 
@@ -75,8 +100,13 @@ body {
     grid-area: bottom-left;
     background-color: white;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.38.41.png?raw=true');
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 
 }
 
@@ -84,20 +114,28 @@ body {
     grid-area: bottom-center;
     background-color: magenta;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
-
+    background-image: url('https://github.com/tanaym42/tanaym42.github.io/blob/main/Images/Screen%20Shot%202022-10-15%20at%2013.39.47.png?raw=true');
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 }
 
 #bottom-right {
     grid-area: bottom-right;
-    background-color: burlywood;
+    background-color: #ffc300;
     text-align: left;
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 2px;
 
 }
 
 p{
-    text-shadow: 1px 1px grey;
+    text-shadow: 1px 1px black;
+    color: #000814;
 }
