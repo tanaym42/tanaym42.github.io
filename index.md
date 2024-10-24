@@ -1,9 +1,9 @@
 ---
-title: Hi, I'm Tanay
+title: Tana's Blog
 ---
 
+I like thinking about technology regulation and data privacy.
 
-I'm not sure if this automatically registers the date, but it's October 23rd.
+I'm not sure where I stand on most things. Hopefully writing a little bit more will help with that. 
 
-I'm inspired again to try and write and muse about things. So here goes nothing.
 
