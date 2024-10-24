@@ -1,5 +1,5 @@
 ---
-title: Tana's Blog
+title: Tanay's Blog
 ---
 
 I like thinking about technology regulation and data privacy.
